@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Question Game</string>
+
+    <string name="um">Um</string>
+    <string-array name="um_alt">
+        <item>Um amor</item>
+        <item>Uma flor</item>
+        <item>Um calor</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="planta">De que grupo faz parte a ninfeia (planta)?</string>
+    <string-array name="planta_res">
+        <item>Angiospermas</item>
+        <item>Rizomas</item>
+        <item>Musgos</item>
+    </string-array>
+    <string name="yoshi">Quantas espécies de Yoshi aparecem no Super Mario World?</string>
+    <string-array name="yoshi_res">
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+    <string name="livro">Qual é o nome da personagem principal de 1984?</string>
+    <string-array name="livro_res">
+        <item>Wilson Smith</item>
+        <item>Wilson Smidth </item>
+        <item>Winston Smith </item>
+    </string-array>
+    <string name="halflife">Qual destes jogos é um mod derivado de Half-Life?</string>
+    <string-array name="halflife_res">
+        <item>Quake</item>
+        <item>Counter-Strike</item>
+        <item>Medal of Honor</item>
+    </string-array>
+    <string name="marco">O logradouro público denominado primeiro de março homenageia o encerramento de qual conflito armado?</string>
+    <string-array name="marco_res">
+        <item>Guerra do Paraguai</item>
+        <item>Guerra da Cisplatina</item>
+        <item>Segunda Guerra Mundial</item>
+    </string-array>
+</resources>
